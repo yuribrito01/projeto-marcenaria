@@ -1,0 +1,65 @@
+.cordefundo{
+    background-color: rgb(180, 180, 180);
+}
+.logo{
+    width: 13%;
+   display: inline-block;
+   margin: 15px;
+}
+
+ul li{
+    display: inline-block;
+    padding-right: 4px;  
+}
+
+ul {
+    position: absolute; left: 80%; top: 15%;
+    
+}
+
+.displaynamesmalinha {
+    display: inline-block;
+}
+
+.tamanhosimagem{
+    width: 200px; height: 200px;
+    margin-top: 10px;
+}
+
+.borda {
+    border: 2px solid black;
+    border-radius: 10px;
+    display: inline-block;
+    width: 275px;
+    height: 275px;
+    text-align: center;
+    margin-left: 70px;
+    margin-top: 50px
+
+    }
+
+.borda h2 {
+    font-size: 30px;
+    padding-top: 10px;
+
+}
+
+.rodape {
+    background-image: url("imagens/bg.jpg");
+    margin-top: 50px;
+    text-align: center;
+
+}
+
+#colorwhite{
+    color: blanchedalmond;
+}
+
+ul li a:hover{
+    color: green;
+    text-decoration: black;
+
+}
+
+
+
